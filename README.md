@@ -4,6 +4,7 @@ Este é o meu portfólio pessoal, onde apresento meu trabalho como desenvolvedor
 
 Este portfólio foi desenvolvido como parte do curso da Alura, dentro do projeto ONE (Oracle Next Education), uma parceria entre a Alura e a Oracle.
 
+![print-portfolio-alura](https://github.com/Gabszeran/portfolio-alura/assets/99148193/452170c5-5ce6-4e48-b8e5-4c4075e740af)
 
 
 ## 🔨 Funcionalidades do projeto
